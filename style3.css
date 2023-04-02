@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/happy-world-blood-donor-day-red-grey-yellow-background-social-media-design-banner-free-vector_1340-21612.jpg?w=1380&t=st=1680411956~exp=1680412556~hmac=59b3e99fcd5649b3c0f835b208f3364b372ba232f5c4998d23e94e4a04aa9311);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    background-color: grey;
+    height: 500px;
+    width: 850px;
+    opacity: 0.7;
+    /* backface-visibility: ; */
+}
+h{
+   text-align: center; 
+}
+p{
+    font-size:medium;
+    font-weight: 500;
+    font-display:inherit;
+}

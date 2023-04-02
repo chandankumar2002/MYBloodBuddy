@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+body h1{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(223, 28, 28);
+}
+.donation-box{
+   width: 40%;
+   height: 80%;
+   background-color: azure;
+   margin: 20px;
+}
+.donation-box form{
+    height: 80%;
+    padding-bottom: 10px;
+}
+form{
+    /* display: flex;  */
+    margin: auto;
+    /* height: ; */
+
+}
+/* form div{
+} */
+input{
+     width: 90%;
+    margin-bottom:5px ;
+    margin-left:10px ;
+    height: 25px;
+    font-size: 15px;
+    
+}
+label{
+    margin-left: 10px;
+}
+select{
+    margin-left: 10px;
+    background-color: white;
+    border: 0.5px solid black;
+    border-radius: 2px;
+
+
+}

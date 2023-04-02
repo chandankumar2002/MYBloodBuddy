@@ -1,0 +1,49 @@
+.boxes{
+    display: flex;
+    justify-content: center;
+}
+.boxes-1{
+    display: flex;
+    justify-content: center;
+}
+.boxes-1 button{
+    margin:10px;
+    height: 120px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.boxes button{
+    margin:10px;
+    height: 100px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.main{
+    display: flex;
+    height: 400px;
+
+}
+.sub_box-1{
+    width: 50%;
+    background-color:white;
+}
+.sub_box-2{
+    width: 50%;
+    background-color:white ;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.blood_table{
+    margin: 40px;
+}
+table,th,td{
+    border: 1px solid grey;
+}
+th,td{
+    padding: 5px;
+    
+}
